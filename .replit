@@ -85,7 +85,7 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "mvn exec:java"
+args = "gradle run --console=plain -q"
 waitForPort = 5000
 
 [workflows.workflow.metadata]
