@@ -1,0 +1,7 @@
+<!-- XML -->
+<!-- Файл: app/src/main/res/values/themes.xml -->
+<resources>
+    <style name="Theme.App" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- минимальная тема -->
+    </style>
+</resources>
